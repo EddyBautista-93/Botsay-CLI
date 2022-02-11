@@ -1,0 +1,15 @@
+C:\Users\bauti\source\repos\botsay-cli\bin\Debug\net6.0\botsay-cli.exe
+C:\Users\bauti\source\repos\botsay-cli\bin\Debug\net6.0\botsay-cli.deps.json
+C:\Users\bauti\source\repos\botsay-cli\bin\Debug\net6.0\botsay-cli.runtimeconfig.json
+C:\Users\bauti\source\repos\botsay-cli\bin\Debug\net6.0\botsay-cli.dll
+C:\Users\bauti\source\repos\botsay-cli\bin\Debug\net6.0\ref\botsay-cli.dll
+C:\Users\bauti\source\repos\botsay-cli\bin\Debug\net6.0\botsay-cli.pdb
+C:\Users\bauti\source\repos\botsay-cli\obj\Debug\net6.0\botsay-cli.csproj.AssemblyReference.cache
+C:\Users\bauti\source\repos\botsay-cli\obj\Debug\net6.0\botsay-cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\source\repos\botsay-cli\obj\Debug\net6.0\botsay-cli.AssemblyInfoInputs.cache
+C:\Users\bauti\source\repos\botsay-cli\obj\Debug\net6.0\botsay-cli.AssemblyInfo.cs
+C:\Users\bauti\source\repos\botsay-cli\obj\Debug\net6.0\botsay-cli.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\repos\botsay-cli\obj\Debug\net6.0\botsay-cli.dll
+C:\Users\bauti\source\repos\botsay-cli\obj\Debug\net6.0\ref\botsay-cli.dll
+C:\Users\bauti\source\repos\botsay-cli\obj\Debug\net6.0\botsay-cli.pdb
+C:\Users\bauti\source\repos\botsay-cli\obj\Debug\net6.0\botsay-cli.genruntimeconfig.cache
